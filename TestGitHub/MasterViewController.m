@@ -19,6 +19,7 @@
 
 - (void)awakeFromNib
 {
+    NSLog(@"Create a new branch");
     [super awakeFromNib];
 }
 
